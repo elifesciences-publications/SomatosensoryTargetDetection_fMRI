@@ -1,4 +1,7 @@
 # SomatosensoryTargetDetection_fMRI
+
+### This code is associated with the paper from Schröder et al., "Neural basis of somatosensory target detection independent of uncertainty, relevance, and reports". eLife, 2019. http://dx.doi.org/10.7554/eLife.43410
+
 Matlab scripts to analyse data from an fMRI study on somatosensory target detection
 
 Requires SPM12 software package: https://www.fil.ion.ucl.ac.uk/spm/software/spm12/
